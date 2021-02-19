@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdelaza
-- 👀 I’m interested in ... knowledge 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in knowledge 
+- 🌱 I’m currently learning coding 
+- 💞️ I’m looking to collaborate on anything 
+- 📫 How to reach me abdelaza@tcd.ie
 
 <!---
 abdelaza/abdelaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
